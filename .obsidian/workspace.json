@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "e129a28fb47b1f19",
+    "type": "split",
+    "children": [
+      {
+        "id": "442cdde55d671dca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fb8debea84f0cd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Pending_Approval/FILE_myfile_20260226200948.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FILE_myfile_20260226200948"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5db8d823fb331cca",
+    "type": "split",
+    "children": [
+      {
+        "id": "20f8dbd5cfe8077d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4b9c207a0f6f4ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "690c6627f516b23c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "92de4f85292d3679",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e04ba85728798b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "34b6506e14dd1843",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb1cc2b955073fef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal AI Employee Hackathon 0_ Building Autonomous FTEs in 2026.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Personal AI Employee Hackathon 0_ Building Autonomous FTEs in 2026"
+            }
+          },
+          {
+            "id": "c9892f2c8839024d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal AI Employee Hackathon 0_ Building Autonomous FTEs in 2026.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Personal AI Employee Hackathon 0_ Building Autonomous FTEs in 2026"
+            }
+          },
+          {
+            "id": "217eb49b6c45f950",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "309958cc6185ef6f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d287ffd33e56300d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personal AI Employee Hackathon 0_ Building Autonomous FTEs in 2026.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Personal AI Employee Hackathon 0_ Building Autonomous FTEs in 2026"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a4b9c207a0f6f4ef",
+  "lastOpenFiles": [
+    "SILVER_TIER_VALIDATION.md",
+    "Vault/Posts/Post_Templates.md",
+    "Vault/Posts/Published",
+    "Vault/Posts/Rejected",
+    "Vault/Posts/Approved",
+    "Vault/Posts/Pending",
+    "Vault/Posts",
+    "scripts/__pycache__/linkedin_watcher.cpython-312.pyc",
+    "scripts/__pycache__/linkedin_watcher.cpython-312.pyc.134752252486512",
+    "scripts/linkedin_watcher.py",
+    "Vault/Plans/ORCHESTRATOR_20260307_205505.md",
+    "Vault/Plans/PLAN_FILE_test_document_20260226193859_20260307205501.md",
+    "Vault/Plans/PLAN_FILE_test_20260305202200_20260307205501.md",
+    "Vault/Plans/ORCHESTRATOR_20260307_205431.md",
+    "Vault/Plans/PLAN_FILE_test_document_20260226193859_20260307205428.md",
+    "Vault/Plans/PLAN_FILE_test_20260305202200_20260307205428.md",
+    "Vault/Plans/ORCHESTRATOR_20260307_205358.md",
+    "Vault/Plans/PLAN_FILE_test_document_20260226193859_20260307205355.md",
+    "Vault/Plans/PLAN_FILE_test_20260305202200_20260307205355.md",
+    "Vault/Plans/ORCHESTRATOR_20260307_205324.md",
+    "Vault/Plans/PLAN_FILE_test_document_20260226193859_20260307205321.md",
+    "Vault/Plans/PLAN_FILE_test_20260305202200_20260307205321.md",
+    "Vault/Plans/ORCHESTRATOR_20260307_205250.md",
+    "Vault/Plans/PLAN_FILE_test_document_20260226193859_20260307205247.md",
+    "Vault/Plans/PLAN_FILE_test_20260305202200_20260307205247.md",
+    "Vault/Plans/ORCHESTRATOR_20260307_205217.md",
+    "Vault/Plans/PLAN_FILE_test_document_20260226193859_20260307205214.md",
+    "Vault/Plans/PLAN_FILE_test_20260305202200_20260307205214.md",
+    "scripts/__pycache__/gmail_watcher.cpython-312.pyc",
+    "scripts/__pycache__/gmail_watcher.cpython-312.pyc.128841864717168",
+    "Vault/Plans/ORCHESTRATOR_20260307_205144.md",
+    "Vault/Plans/PLAN_FILE_test_document_20260226193859_20260307205139.md",
+    "Vault/Plans/PLAN_FILE_test_20260305202200_20260307205139.md",
+    "Vault/Plans/ORCHESTRATOR_20260307_205109.md",
+    "Vault/Plans/PLAN_FILE_test_document_20260226193859_20260307205106.md",
+    "Vault/Plans/PLAN_FILE_test_20260305202200_20260307205106.md"
+  ]
+}

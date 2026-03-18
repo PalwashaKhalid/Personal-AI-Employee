@@ -1,0 +1,26 @@
+# AI Employee - Python Dependencies
+# Gold Tier Requirements
+
+# Core dependencies (Bronze tier)
+watchdog>=4.0.0          # File system monitoring
+
+# Gmail API (Silver tier)
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.1.0
+google-auth-oauthlib>=1.0.0
+
+# WhatsApp/LinkedIn automation (Silver tier)
+playwright>=1.40.0
+
+# Odoo integration (Gold tier)
+requests>=2.31.0
+
+# Social media APIs (Gold tier)
+# tweepy>=4.14.0          # Twitter/X API
+# facebook-sdk>=3.1.0     # Facebook API
+# instagram-private-api   # Instagram API
+
+# Development dependencies
+# pytest>=7.4.0                      # Testing
+# black>=23.0.0                      # Code formatting
+# flake8>=6.0.0                      # Linting

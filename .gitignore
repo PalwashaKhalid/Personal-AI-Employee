@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+Logs/
+Vault/Logs/
+
+# Credentials (NEVER commit these!)
+credentials.json
+.env
+*.key
+*.pem
+
+# Session files
+Vault/Logs/*_session/
+Vault/Logs/gmail_token.json
+Vault/Logs/linkedin_session/
+Vault/Logs/whatsapp_session/
+
+# PID files
+*.pid
+
+# Test files
+tmp/
+temp/
+.tmp/
+
+# Build
+build/
+dist/
+*.egg-info/
